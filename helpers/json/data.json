@@ -1,0 +1,140 @@
+[
+    {
+        "img": "https://turismoushuaia.com/wp-content/uploads/2021/07/ZZA2178-e1738155250357-768x551.jpg",
+        "title": "Tren del Fin del Mundo",
+        "description": "Conocé los rincones transitados por los antiguos presos abordo del mítico trencito.",
+        "type": "parque"
+    },
+    {
+        "img": "https://turismoushuaia.com/wp-content/uploads/2021/08/ABW9480-768x513.jpg",
+        "title": "Kayak y Canoas",
+        "description": "Remar en las aguas del fin del mundo.",
+        "type": "parque"
+    },
+    {
+        "img": "https://turismoushuaia.com/wp-content/uploads/2021/08/ABP_1073-768x513.jpg",
+        "title": "Trekking en el Parque",
+        "description": "Senderos de todo tipo: cortos, largos, de mayor o menor dificultad.",
+        "type": "parque"
+    },
+    {
+        "img": "https://turismoushuaia.com/wp-content/uploads/2021/10/QYY4221-768x513.jpg",
+        "title": "Isla Redonda",
+        "description": "Justo en frente de la playa de Ensenada.",
+        "type": "parque"
+    },
+    {
+        "img": "https://turismoushuaia.com/wp-content/uploads/2021/11/V-1494-Pescador-Atardecer-768x508.jpg",
+        "title": "Pesca Deportiva",
+        "description": "Cultivar la paciencia en la Tierra del Fuego.",
+        "type": "parque"
+    },
+    {
+        "img": "https://turismoushuaia.com/wp-content/uploads/2021/09/QYY4235-768x513.jpg",
+        "title": "Excursiones en el Parque Nacional",
+        "description": "Hay muchas formas de recorrer el Parque ¡Conocelas!",
+        "type": "parque"
+    },
+    {
+        "img": "https://turismoushuaia.com/wp-content/uploads/2021/07/MUSEO-FDM-768x542.jpg",
+        "title": "Museo del Fin del Mundo",
+        "description": "Con tu entrada, visitá también la Antigua Casa de Gobierno.",
+        "type": "ciudad"
+    },
+    {
+        "img": "https://turismoushuaia.com/wp-content/uploads/2021/06/PRESIDIO-PORTADA-768x513.jpg",
+        "title": "Museo Marítimo y ex Presidio de Ushuaia",
+        "description": "Museo Marítimo, el Museo Antártico y el Museo de Arte Marino.",
+        "type": "ciudad"
+    },
+    {
+        "img": "https://turismoushuaia.com/wp-content/uploads/2022/02/CASA-BEBAN-1-768x513.jpg",
+        "title": "Casa Beban",
+        "description": "Este edificio es uno de los mayores exponentes del patrimonio arquitectónico local.",
+        "type": "ciudad"
+    },
+    {
+        "img": "https://turismoushuaia.com/wp-content/uploads/2021/07/PENSAR-MALVINAS-5-e1737641640831-768x457.jpg",
+        "title": "Espacio Pensar Malvinas",
+        "description": "La historia y la cercanía vinculan a Ushuaia con las Islas Malvinas de una manera muy fuerte.",
+        "type": "ciudad"
+    },
+    {
+        "img": "https://turismoushuaia.com/wp-content/uploads/2021/09/MUSEO-DE-LA-CIUDAD-768x513.jpg",
+        "title": "Museo de la Ciudad",
+        "description": "También conocido como Casa Pena.",
+        "type": "ciudad"
+    },
+    {
+        "img": "https://turismoushuaia.com/wp-content/uploads/2025/02/ANEXO-PORTADA-768x514.jpg",
+        "title": "Antigua Casa de Gobierno",
+        "description": "Anexo del Museo del Fin del Mundo.",
+        "type": "ciudad"
+    },
+    {
+        "img": "https://turismoushuaia.com/wp-content/uploads/2021/07/SKI-SNOW-CASTOR-11-768x514.jpg",
+        "title": "Esquí Alpino y Snowboard",
+        "description": "En invierno, Ushuaia te ofrece una de las actividades más emocionantes.",
+        "type": "valles"
+    },
+    {
+        "img": "https://turismoushuaia.com/wp-content/uploads/2018/02/Andres-Camacho-3-scaled-768x514.jpg",
+        "title": "Esquí de fondo",
+        "description": "Te vas a deslizar por un camino marcado entre valles y bosques.",
+        "type": "valles"
+    },
+    {
+        "img": "https://turismoushuaia.com/wp-content/uploads/2021/07/PATINAJE-CASTOR-06-768x513.jpg",
+        "title": "Patinaje sobre hielo",
+        "description": "Abrigate bien, calzate los patines y sentite fluyendo sobre el hielo.",
+        "type": "valles"
+    },
+    {
+        "img": "https://turismoushuaia.com/wp-content/uploads/2021/09/Buceo-scaled-768x576.jpg",
+        "title": "Buceo",
+        "description": "¿Quién dijo que el buceo solo se hacía en aguas cálidas?",
+        "type": "canal"
+    },
+    {
+        "img": "https://turismoushuaia.com/wp-content/uploads/2018/02/tres-marias-navegacion-y-caminata-isla-H-scaled-768x522.jpg",
+        "title": "Navegación y caminata por Isla H",
+        "description": "Acercarte un poco más a las maravillas del Canal Beagle.",
+        "type": "canal"
+    },
+    {
+        "img": "https://turismoushuaia.com/wp-content/uploads/2021/07/ABW6020-768x513.jpg",
+        "title": "Navegación y caminata por Islas Bridges",
+        "description": "Navegacion por la isla de Los Pájaros, la isla de Los Lobos y el faro Les Eclaireurs.",
+        "type": "canal"
+    },
+    {
+        "img": "https://turismoushuaia.com/wp-content/uploads/2023/09/CCC7039-768x512.jpg",
+        "title": "Navegación a la pingüinera",
+        "description": "la única colonia de pingüinos de Tierra del Fuego.",
+        "type": "canal"
+    },
+    {
+        "img": "https://turismoushuaia.com/wp-content/uploads/2021/08/BCF5065-scaled-768x513.jpg",
+        "title": "Cabalgatas",
+        "description": "Una forma de conocer Ushuaia es a caballo.",
+        "type": "lagos"
+    },
+    {
+        "img": "https://turismoushuaia.com/wp-content/uploads/2021/07/turismo-rural-768x511.jpeg",
+        "title": "Turismo Rural",
+        "description": "Vivir y sentir la inmensidad de la Patagonia Austral.",
+        "type": "lagos"
+    },
+    {
+        "img": "https://ushuaiaturismo.com/wp-content/uploads/barco-antartida.jpg",
+        "title": "Antartida Clasica",
+        "description": "Aprovechar al máximo las condiciones climáticas y del hielo locales y las oportunidades de observar la vida silvestre.",
+        "type": "antartida"
+    },
+    {
+        "img": "https://i0.wp.com/ushuaiaturismo.com/wp-content/uploads/sea-spirit-2.jpg?w=1280&ssl=1",
+        "title": "Antartida y Georgia del Sur",
+        "description": "Vivir una experiencia extraordinaria que lo llevará a través de la península Antártica occidental, pasando por la isla Elefante hasta Georgia del Sur.",
+        "type": "antartida"
+    }
+]
