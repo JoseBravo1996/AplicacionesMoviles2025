@@ -6,7 +6,8 @@
   --color-white: #fff;
   --color-dark: #333;
   --color-muted: #666;
-
+  --color-button: #065a82;
+  --color-opacity: #4e80a1;
   --font-main: "Poppins", sans-serif;
   --spacing: 1rem;
   --radius: 4px;
@@ -195,4 +196,60 @@ section h2 {
   .card-section {
     padding: var(--spacing);
   }
+}
+
+form#encuestaForm {
+  max-width: 600px;
+  margin: 2rem auto;    
+  background: #fff;
+  padding: 1rem;
+  border-radius: 4px;
+  border: 1px solid #ddd;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+form#encuestaForm label {
+  font-weight: bold;
+}
+
+form#encuestaForm input[type="text"],
+form#encuestaForm textarea {
+  width: 100%;
+  padding: 0.5rem;
+  margin-top: 0.25rem;
+  margin-bottom: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+form#encuestaForm button {
+  margin-right: 1rem;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+form#encuestaForm button {
+  background-color: var(--color-button);
+  color: var(--color-white);
+  padding: 0.5rem 1rem;
+  margin-right: 0.5rem;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background 0.3s;
+}
+
+form#encuestaForm button:hover {
+  background-color: var(--color-button);
+}
+
+.card.selected {
+  background-color: var(--color-opacity); 
+}
+
+.card.selected img {
+  opacity: 0.7;
 }

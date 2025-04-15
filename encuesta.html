@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Secretaria de Turismo Ushuaia</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+  <header>
+    <div class="logo">
+      <img
+        src="https://turismoushuaia.com/wp-content/themes/turismo-ushuaia-wp-theme/static/images/LOGO_STU_2016_letras_blancas_resized.png"
+        alt="Logo Turismo Ushuaia"
+      />
+    </div>
+    <h1>Secretaria de Turismo Ushuaia</h1>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="index.html">Volver al Inicio</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <h2>Tu opinión nos interesa</h2>
+    <form id="encuestaForm">
+      <label for="nombre">Nombre *</label><br>
+      <input type="text" id="nombre" name="nombre" /><br><br>
+
+      <label for="apellido">Apellido *</label><br>
+      <input type="text" id="apellido" name="apellido" /><br><br>
+
+      <label for="fechaNac">Fecha de Nacimiento (dd-mm-aaaa) *</label><br>
+      <input type="text" id="fechaNac" name="fechaNac" placeholder="01-01-2000" /><br><br>
+
+      <label>Sexo *</label><br>
+      <input type="radio" name="sexo" value="Femenino" /> Femenino
+      <input type="radio" name="sexo" value="Masculino" /> Masculino
+      <input type="radio" name="sexo" value="Otro" /> Otro
+      <br><br>
+
+      <label>¿Qué te pareció la página? *</label><br>
+      <input type="radio" name="valoracion" value="Lamentable" /> Lamentable<br>
+      <input type="radio" name="valoracion" value="Mala" /> Mala<br>
+      <input type="radio" name="valoracion" value="Podría ser mejor" /> Podría ser mejor<br>
+      <input type="radio" name="valoracion" value="Cumple con mis expectativas" /> Cumple con mis expectativas<br>
+      <input type="radio" name="valoracion" value="Me encantó" /> Me encantó<br><br>
+
+      <label for="email">Email *</label><br>
+      <input type="text" id="email" name="email" placeholder="tucorreo@ejemplo.com" /><br><br>
+
+      <label for="comentario">Comentario</label><br>
+      <textarea id="comentario" name="comentario" rows="5" cols="30"></textarea><br><br>
+
+      <button type="submit" id="btnEnviar">Enviar</button>
+      <button type="button" id="btnCancelar">Cancelar</button>
+      <button type="reset" id="btnResetear">Restablecer valores</button>
+    </form>
+  </main>
+
+  <footer>
+    <p>
+      &copy; Secretaría de Turismo, Municipalidad de Ushuaia Oficina Central.
+      Todos los derechos reservados.
+    </p>
+  </footer>
+
+  <script src="js/encuesta.js"></script>
+</body>
+</html>
